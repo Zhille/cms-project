@@ -12,7 +12,7 @@ Categories page is simple one, all is doing is adding new categories and deletin
 Comment page is standing for all comments from web site, each comment have 'In Response to' field, by clicking on it you will me moved directly to that specific post -> comment. Comment can be deleted, approved or unapproved, if is unapproved ofcourse comment will not be displayed. User drop-down bar is absolutly similar to Post's one, ofcourse with the content is for User in this case. User bar is not available for users with subscriber role. The passwords are not allowed not even for Admin. The last bar is Profile, here user can edit his own profile as chacging email, username, password ( which is all the time hashed ).
 
 # Hope you like my PHP-CMS project. If you interested check out rest of my projects. 
-Have a great one!  
+Have a great one! :) 
 -
 
 
