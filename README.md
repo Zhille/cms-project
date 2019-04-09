@@ -1,7 +1,6 @@
 # Procedural PHP - CMS project 
 
-· PHP-CMS is supposed to be easy to use and manage web based Content Management System. It will include all possible features that a web application can have like a WordPress. It will have good administration features.
-
+# Home page
 So, let's start from main page which is index.php, in index.php have all the post's that are made by Admin or Subscriber ( Subscriber have limited access and only they can see is 'published' post's, Admin can see all of them ).
 All post's have their category and that is one thing that make them different and possible to sort. If u want to sort them, the one way of doing that is by clicking at one them at navigation or side bar. The second way of sorting post's is by post creator, if you click on any post creator name browser will bring you to page where will be displayed all the post's for that specific user. If you want to search some post's or one specific post you can do that by using 'blog search', for example, if you want to see only post's about PHP just type 'PHP' in search box and all post's wich have some relation about PHP will be displayed. In this case, web site have a lot of post's so all the post's are separated by using pagination which is dymanic pagination and number of pages deppended's of number of post's. For contacting support ( in this case Admin ) go to > Contact < bar, and easily send the e-mail. You can make your own profile at > Register < bar, your permission will be limited becaouse your role is 'Subscriber' by deafult. Login box is on the right side bar and at navigation bar too, if your username and password are correct you will be moved to Admin section if not, YOURE ALLOWED TO RESET YOUR ADASDSADSADSADASDDASD
 # Admin section
